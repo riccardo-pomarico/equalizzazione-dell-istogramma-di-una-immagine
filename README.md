@@ -1,0 +1,1 @@
+# equalizzazione-dell-istogramma-di-una-immagine
